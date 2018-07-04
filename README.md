@@ -1,5 +1,27 @@
 # git_communication 
 ## Ubuntu 16.04
+
+## Git Communication API:
+### API signature:
+```
+http://0.0.0.0:8000/pullrequest/metadata?username=pushpswati&repo_name=git_communication
+```
+#### Request Type-  GET
+#### Request Response:
+```
+{
+    "pull_request": [
+        {
+            "status": "REVIEWER_PENDING",
+            "state": "open",
+            "id": 199141947,
+            "merge_status": "MERGE_PENDING"
+        }
+    ]
+}
+```
+
+
 ## Setup and installation
 
 
