@@ -2,7 +2,7 @@
 ## Ubuntu 16.04
 ## Setup and installation
 
-###Run following cammand
+### Run following cammand
 ```
 sudo apt-get update
 sudo apt-get install python-pip python-dev libpq-dev postgresql postgresql-contrib nginx
@@ -13,7 +13,6 @@ sudo pip install -r requirement.txt
 ```
 
 ## Gunicorn setup [Edit following file]
-```
 
 sudo nano /etc/systemd/system/gunicorn.service
 
