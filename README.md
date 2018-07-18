@@ -28,7 +28,7 @@ http://0.0.0.0:8000/pullrequest/metadata?username=pushpswati&repo_name=git_commu
 ### Run following cammand
 ```
 sudo apt-get update
-sudo apt-get install python-pip python-dev libpq-dev postgresql postgresql-contrib nginx
+sudo apt-get install python-pip python-dev libpq-dev nginx
 ```
 ### Install python package
 ```

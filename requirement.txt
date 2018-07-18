@@ -1,0 +1,6 @@
+django==1.11.0
+requests
+gunicorn
+psycopg2
+djangorestframework
+pygments
